@@ -1,4 +1,4 @@
-# Damián Aramís Ordóñez Rieumont
+# Damian Rieumont
 
 Welcome to my GitHub profile! I'm Damian, a student software engineer with a passion for building robust applications and solving complex problems using modern web technologies.
 
