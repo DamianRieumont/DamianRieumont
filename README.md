@@ -1,29 +1,9 @@
-# Damian Rieumont
-
-Welcome to my GitHub profile! I'm Damian, a student software engineer with a passion for building robust applications and solving complex problems using modern web technologies.
-
 ## About Me
 
-I'm currently honing my skills in various programming languages and frameworks, focusing on backend development, particularly with JavaScript and TypeScript. My desire is to create efficient, scalable, and maintainable applications to provide users with a seamless experience.
-
-## Skills
-
-- **Languages**: 
-  - JavaScript
-  - TypeScript
-
-- **Backend Frameworks**: 
-  - Node.js
-  - Express
-  - NestJS
-
-- **Databases**: 
-  - SQL
-  - MongoDB
-  - Prisma
-
-- **Real-Time Communication**: 
-  - WebSocket
+Desarrollador backend (Node.js/NestJS, TypeScript) con experiencia construyendo ERPs y lógica de negocio
+transaccional sobre PostgreSQL. He desarrollado APIs, flujos críticos y comunicación en tiempo real con WebSockets, y
+desarrollado móvil con Flutter. Perfil orientado a producto: requisitos, priorización, documentación y coordinación
+técnica; participación en migración parcial a Spring Boot/Hibernate.
 
 ## Connect with Me
 
